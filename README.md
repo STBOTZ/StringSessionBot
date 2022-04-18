@@ -6,13 +6,13 @@
 
 Telegram bot to generate pyrogram and telethon string session.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/STBOTZ/StringSessionBot/)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StringSessionBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STBOTZ/StringSessionBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StringSessionBot
+   git clone https://github.com/STBOTZ/StringSessionBot
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -60,15 +60,15 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Credits
 
-- [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [Lonami](https://github.com/Lonami) for his [Telethon](https://docs.telethon.dev) Library 
-- [aylak](https://t.me/ayIak) for **Telethon** idea of [v1.0.0](https://github.com/StarkBotsIndustries/StringSessionBot/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
+- [Dan Tès](https://github.com/STBOTZ) for his [Pyrogram](https://docs.pyrogram.org) Library
+- [Lonami](https://github.STBOTZ) for his [Telethon](https://docs.telethon.dev) Library 
+- [aylak](https://t.me/ayIak) for **Telethon** idea of [v1.0.0](https://github.com/STBOTZ/StringSessionBot/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@STBOTZ](https://t.me/STBOTZ)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@STBOTZ SUPPORT](https://t.me/ST_BOTZ)
 
 ## :)
 
